@@ -2,3 +2,4 @@ gpt_2/
 __pycache__/
 model.pth
 model_and_optimizer.pth
+review_classifier.pth
